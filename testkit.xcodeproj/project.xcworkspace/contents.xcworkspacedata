@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../NumberValue.h">
+   </FileRef>
+   <FileRef
       location = "self:testkit.xcodeproj">
    </FileRef>
 </Workspace>
